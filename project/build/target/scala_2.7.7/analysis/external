@@ -1,0 +1,5 @@
+#External Dependencies
+#Fri Feb 17 19:43:27 CET 2012
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar=LiftProject.scala
+/Volumes/Data\ Disk/christopher/Desktop/wiringUI_and_autocomplete/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5/sbt_2.7.7-0.7.5.jar=LiftProject.scala
+/Volumes/Data\ Disk/christopher/Desktop/wiringUI_and_autocomplete/project/boot/scala-2.7.7/lib/scala-library.jar=LiftProject.scala
